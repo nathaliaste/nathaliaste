@@ -1,4 +1,4 @@
-<h1 align="center">I'm Nathalia Stephanie Pinto</h1>
+<h1 align="center">I'm Nathalia Stephanie Pinto </h1>
 <h3 align="center">A Systems Analysis and Development student. Enthusiastic about back-end developing.</h3>
 
 - 🌱 I’m currently learning **Java, MySQL, JavaScript**
